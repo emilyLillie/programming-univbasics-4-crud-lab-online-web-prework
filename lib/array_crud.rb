@@ -6,7 +6,7 @@ def create_an_array
  an_array = ["wow", "I", "am", "really"]
 end
 
-my_array = ["wow", "I", "am", "really"]
+
 def add_element_to_end_of_array(array, element)
   
   my_array.push("learning")
