@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  $my_array = ["wow", "I", "am", "really", "learning"]
+  $my_array = ["wow", "I", "am", "really"]
 end
 
 def add_element_to_end_of_array(array, element)
-  my_array.push("arrays!")
+  my_array.push("learning")
 end
 
 def add_element_to_start_of_array(array, element)
