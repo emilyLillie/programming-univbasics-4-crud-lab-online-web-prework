@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
- 
+  famous_cats = ["lil' bub", "grumpy cat", "Maru", "Simba"]
 end
 
 
