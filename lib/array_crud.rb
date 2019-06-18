@@ -12,7 +12,7 @@ def add_element_to_end_of_array(array, element)
  #famous_cats.push("nala cat")
  #print famous_cats
  #[].push()
- 
+ ["lil' bub", "grumpy cat", "Maru", "Simba"].push("nala")
 end
 
 def add_element_to_start_of_array(array, element)
